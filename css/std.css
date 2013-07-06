@@ -1,0 +1,87 @@
+<!--/*--><css><![CDATA[/**/
+
+
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 11pt;
+    color: #000055;
+    background-color: #eee;
+    margin: 5px;
+    padding: 6pt 8pt 15pt 8pt;
+    border: solid #66aaaa 2px;
+}
+
+.disabled {
+    color: #777777;
+}
+.list-item {
+    margin: 0.2em;
+    padding: 0;
+}
+.list-item-hilite {
+    margin: 0.2em;
+    padding: 0;
+    background-color: #ee0;
+}
+
+.xml-output {
+    background-color: #fff;
+    border: solid #66aaaa 2px;
+    padding: 0 0 0 0
+}
+
+a {
+    text-decoration: none;
+    color: #000088;
+    font-weight: bold;
+}
+a:visited {
+    text-decoration: none;
+    color: #000088;
+}
+a:hover {
+    text-decoration: underline;
+    color: #000088;
+}
+table {
+    border: solid #66aaaa 1px;
+    background-color: #bbcccc;
+}
+table th {
+    background-color: #000055;
+    color: #ffffff;
+    padding: 4pt 4pt 2pt 4pt;
+}
+table td {
+    background-color: #ffffff;
+    color: #000055;
+    padding: 2pt 4pt 2pt 4pt;
+    text-align: right;
+    vertical-align: text-top;
+}
+table td.left {
+    text-align: left;
+}
+table td.center {
+    text-align: center;
+}
+h1 {
+    font-size: 1.5em;
+    margin-top: 0.5em;
+    margin-bottom: 1.0em;
+    border-bottom: 3px solid #66aaaa;
+}
+h2 {
+    font-size: 1.3em;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+    border-bottom: 1px solid #66aaaa;
+}
+h3 {
+    font-size: 1.0em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+/*]]>*/<!--/*--></css><!--*/-->
